@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 '''
-Python IDA Patcher - Apple .dif file of IDA Debugger to executable file.
+Python IDA Patcher - Apply .dif file of IDA Debugger to executable file.
 work on linux/windows/osx [ just tested on windows ]
 ZeroDay Cyber Research
 http://www.z3r0d4y.com
